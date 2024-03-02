@@ -1,0 +1,4 @@
+pedantic
+pytest
+pytest-cov
+sphinx
